@@ -39,6 +39,20 @@ button {
   font-weight: bold;
 }
 .col-lg-4,
-.col-lg-12 {
-  background-color: #ffffff;
+.col-md-12 {
+  padding-right: 20px;
+}
+.footer {
+  background-color: white;
+  width: 489px;
+  height: 114px;
+  border-radius: 20px;
+  box-shadow: 5px 2px 10px rgb(160, 156, 156);
+  margin-bottom: 10px;
+}
+.containe {
+  display: flex;
+}
+.foot-img {
+  float: left;
 }
