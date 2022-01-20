@@ -1,0 +1,13 @@
+/* font-family: "Bebas Neue", cursive; */
+
+.collapse > ul > li > a {
+  font-family: "Roboto", sans-serif;
+}
+.top-name {
+  font-family: "Bebas Neue", cursive;
+  font-size: 80px;
+  line-height: 96px;
+}
+.top-name-color {
+  color: #fabe4c;
+}
