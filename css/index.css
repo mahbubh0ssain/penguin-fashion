@@ -46,10 +46,13 @@ button {
   width: 82px;
   height: 78px;
 }
-
+.contact h4,
+p {
+  font-family: "Roboto", sans-serif;
+}
 .cart > img {
   height: 354px;
-  width: 550px;
+  width: 590px;
 }
 .margin {
   margin-top: 200px;
