@@ -9,12 +9,19 @@
   line-height: 96px;
   margin-top: 100px;
 }
+.top-name-color {
+  color: #fabe4c;
+}
 .card {
   background-color: rgb(255, 255, 255);
 }
 .card > img {
   background: #f1f1f1;
   border-radius: 10px;
+}
+.card-title {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
 }
 .btn-primary {
   background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
@@ -34,4 +41,16 @@ button {
 .my-5 {
   font-family: "Bebas Neue", cursive;
   font-size: 48px;
+}
+.contact > div > img {
+  width: 82px;
+  height: 78px;
+}
+
+.cart > img {
+  height: 354px;
+  width: 550px;
+}
+.margin {
+  margin-top: 200px;
 }
