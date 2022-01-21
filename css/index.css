@@ -9,50 +9,29 @@
   line-height: 96px;
   margin-top: 100px;
 }
-.top-name-color {
-  color: #fabe4c;
+.card {
+  background-color: rgb(255, 255, 255);
 }
-/* body {
-  background-color: #fffbf0;
-  width: 100%;
-  height: 100px;
-} */
-
-button {
-  color: white;
-}
-.btn {
-  color: white;
-  font-size: 16px;
-}
-
-.card-img-top {
-  background-color: #f1f1f1;
+.card > img {
+  background: #f1f1f1;
   border-radius: 10px;
 }
-.card-title {
-  font-size: 24px;
+.btn-primary {
+  background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
 }
-.price {
-  font-size: 36px;
+.d-flex {
+  margin-top: 40px;
+}
+button {
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.d-flex > h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
   color: #fabe4c;
-  font-weight: bold;
 }
-.col-lg-4,
-.col-md-12 {
-  padding-right: 20px;
-}
-.footer {
-  background-color: white;
-  width: 489px;
-  height: 114px;
-  border-radius: 20px;
-  box-shadow: 5px 2px 10px rgb(160, 156, 156);
-  margin-bottom: 10px;
-}
-.containe {
-  display: flex;
-}
-.foot-img {
-  float: left;
+.my-5 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 48px;
 }
